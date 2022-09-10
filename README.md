@@ -6,10 +6,11 @@
 Star this repository to add yourself here!
 
 <!-- stargazers -->
-|  hyperstar1 | drknzz |
+|  <a href="https://github.com/drknzz">drknzz</a> | <a href="https://github.com/hyperstar1">hyperstar1</a> |
 |  :-: | :-: |
-|  <img src="https://avatars.githubusercontent.com/u/59699495?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/65187002?s=96&v=4" width="60px"> |
+|  <img src="https://avatars.githubusercontent.com/u/65187002?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59699495?s=96&v=4" width="60px"> |
 <!-- stargazers -->
+
 
 
 
